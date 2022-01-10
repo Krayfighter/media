@@ -1,0 +1,7 @@
+# build requirements for Linux
+gcc >= 11
+sfml >= 2.5
+cmake >= 2.0.0
+make >= 4.0
+# no documented build requirements for Windows
+# needs upgraded
